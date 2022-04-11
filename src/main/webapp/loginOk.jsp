@@ -23,6 +23,7 @@
 			out.println("로그인실패!! 다시 로그인 해 주세요");
 		}
 	%>
-	
+	<br>
+	<a href="sessionCheck01.jsp">로그인정보확인(세션확인)</a>
 </body>
 </html>
