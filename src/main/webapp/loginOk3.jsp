@@ -18,12 +18,12 @@
 			
 			//out.println("로그인 성공!");
 			//out.println( memberId + "님 환영합니다." );
-			response.sendRedirect("sessionCheck01.jsp");
+			response.sendRedirect("sessionCheck02.jsp");
 			
 		} else {
 			
 			//out.println("로그인 실패! 다시 확인 후 로그인해주세요.");
-			response.sendRedirect("login2.jsp");
+			response.sendRedirect("login3.jsp");
 		}
 	%>
 	

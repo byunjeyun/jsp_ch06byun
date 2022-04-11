@@ -19,13 +19,13 @@
 		if(s_id == null) {
 	%>
 	<br><br>
-	<a href="login2.jsp">로그인</a>
+	<a href="login3.jsp">로그인</a>
 	<%
 		}
 		else {
 	%>
 	<br><br>
-	<a href="logout2.jsp">로그아웃</a>
+	<a href="logout3.jsp">로그아웃</a>
 	<%
 	
 		}

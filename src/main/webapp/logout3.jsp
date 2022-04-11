@@ -10,7 +10,7 @@
 	<%
 		session.invalidate();//세션 삭제
 		
-		response.sendRedirect("login2.jsp");
+		response.sendRedirect("login3.jsp");
 	
 	%>
 </body>
